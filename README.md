@@ -5,11 +5,11 @@
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a focus on building scalable, efficient, and user-friendly applications. I have strong expertise in both front-end and back-end technologies, and I enjoy solving complex problems through clean, optimized code.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushitank&label=Profile%20views&color=brightgreen)  
+![Profile Views](https://komarev.com/ghpvc/?username=SujalSodha&label=Profile%20views&color=brightgreen)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushitank&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujalSodha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ayushitank&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SujalSodha&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔧 Technologies & Tools
 
